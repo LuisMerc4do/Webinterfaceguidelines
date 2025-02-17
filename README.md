@@ -1,6 +1,6 @@
 # Web Interface Guidelines
 
-This document serves as a comprehensive guide to crafting high-quality web interfaces, inspired by Rauno Freiberg’s repository. It is a continuously evolving resource, updated regularly based on new insights and best practices. While some points may be subjective, the majority are universal principles applicable to all websites.
+This document serves as a comprehensive guide to crafting high-quality web interfaces, inspired by Rauno Freiberg’s repository. It is a continuously evolving resource, updated regularly based on new insights and best practices. While some points may be subjective, the majority are universal principles applicable to all websites. Also in spanish!
 
 ## Interactivity
 
