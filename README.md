@@ -24,6 +24,9 @@ This document serves as a comprehensive guide to crafting high-quality web inter
 - Font weight should not change on hover or selected state to prevent layout shift
 - Font weights below 400 should not be used
 - Medium sized headings generally look best with a font weight between 500-600
+- Adjust values fluidly by using CSS [`clamp()`](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp), e.g. `clamp(48px, 5vw, 72px)` for the `font-size` of a heading
+- Where available, tabular figures should be applied with `font-variant-numeric: tabular-nums`, particularly in tables or when layout shifts are undesirable, like in timers
+- Prevent text resizing unexpectedly in landscape mode on iOS with `-webkit-text-size-adjust: 100%`
 
 ## Motion
 
